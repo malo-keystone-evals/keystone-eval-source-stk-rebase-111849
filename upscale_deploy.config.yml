@@ -1,0 +1,7 @@
+components:
+  - keystone
+base:
+  name: keystone-eval-source-stk-rebase-111849
+environments:
+  production:
+    context: rehearsal-cluster
